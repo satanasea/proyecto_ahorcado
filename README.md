@@ -19,7 +19,7 @@ Implementación del clásico juego del **Ahorcado** en Python. El programa selec
 ### Pasos
 ```bash
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/ahorcado-python.git
+git clone https://github.com/satanasea/proyecto_ahorcado.git
 
 # Entra a la carpeta
 cd ahorcado-python
