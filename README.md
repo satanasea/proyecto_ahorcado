@@ -99,7 +99,7 @@ ahorcado-python/
 
 ## 🎬 Video explicativo
 
-▶️ [Ver en YouTube]([PEGAR LINK AQUÍ])
+▶️ [Ver en YouTube](https://youtu.be/J6xTZQ59J_0?si=FZvxxvD3wOk_o607)
 
 El video cubre el funcionamiento del código y explica el uso de cada estructura de programación.
 
