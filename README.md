@@ -112,7 +112,3 @@ Carnet: 1010-26-22472
 Ingeniería Civil — Universidad Mariano Gálvez de Guatemala  
 
 ---
-
-## 📌 Nota
-
-Proyecto académico desarrollado como práctica del segundo parcial, 13 de abril de 2026.
